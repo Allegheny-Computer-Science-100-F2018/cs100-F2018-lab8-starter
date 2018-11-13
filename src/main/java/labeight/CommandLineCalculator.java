@@ -19,11 +19,6 @@ import java.util.Scanner;
 
 public class CommandLineCalculator {
 
-  /**
-   * This is the main method that calls all of the necessary methods.
-   *
-   * @author Gregory M. Kapfhammer
-   */
   public static void main(String[] args) {
 
     // Step 1: Display the welcome message
